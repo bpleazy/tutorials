@@ -8,90 +8,90 @@ I quite prefer Windows 10 for a majority of my computing, but I'm learning Linux
 
 ## Here's the Treehouse track I'm following for the [Front End Web Development](https://teamtreehouse.com/tracks/front-end-web-development-2) course designed for Code Louisville
 
-#### - [x] [Console Foundations](https://teamtreehouse.com/library/console-foundations) 
+- [x] [Console Foundations](https://teamtreehouse.com/library/console-foundations) 
     
     *3 hours*
 
     This course is rightly the first course in the track. In the first session (full-stack JavaScript) we were told to use the terminal and git to manage our projects. However, trying to keep up with the front-end dev courses while also being completely lost in terminal and git (as well as losing my the primary Mac OSX machine I was using as my learning environment 1-2 months into the course) sealed my failure. 
     But... having failed out of the first session helped me have a better understanding of *what* I need to be looking at to be prepared to manage my projects before I start making them.
 
-#### - [ ] [HTML Forms](https://teamtreehouse.com/library/html-forms) 
+- [ ] [HTML Forms](https://teamtreehouse.com/library/html-forms) 
     
     *2 hours*
 
-#### - [ ] [CSS Layout Basics](https://teamtreehouse.com/library/css-layout-basics) 
+- [ ] [CSS Layout Basics](https://teamtreehouse.com/library/css-layout-basics) 
 
     *2 hours*
 
-#### - [ ] [JavaScript Loops, Arrays and Objects](https://teamtreehouse.com/library/javascript-loops-arrays-and-objects) 
+- [ ] [JavaScript Loops, Arrays and Objects](https://teamtreehouse.com/library/javascript-loops-arrays-and-objects) 
 
     *4 hours*
 
-#### - [ ] [CSS Selectors](https://teamtreehouse.com/library/css-selectors) 
+- [ ] [CSS Selectors](https://teamtreehouse.com/library/css-selectors) 
 
     *2 hours*
 
-#### - [ ] [jQuery Basics](https://teamtreehouse.com/library/jquery-basics) 
+- [ ] [jQuery Basics](https://teamtreehouse.com/library/jquery-basics) 
 
     *5 hours*
 
-#### - [ ] [CSS Flexbox Layout](https://teamtreehouse.com/library/css-flexbox-layout) 
+- [ ] [CSS Flexbox Layout](https://teamtreehouse.com/library/css-flexbox-layout) 
 
     *105 minutes*
 
-#### - [ ] [HTML Tables](https://teamtreehouse.com/library/html-tables) 
+- [ ] [HTML Tables](https://teamtreehouse.com/library/html-tables) 
 
     *59 minutes*
 
-#### - [ ] [Interactive Web Pages with JavaScript](https://teamtreehouse.com/library/interactive-web-pages-with-javascript) 
+- [ ] [Interactive Web Pages with JavaScript](https://teamtreehouse.com/library/interactive-web-pages-with-javascript) 
 
     *2 hours*
 
-#### - [x] [Git Basics](https://teamtreehouse.com/library/git-basics) 
+- [x] [Git Basics](https://teamtreehouse.com/library/git-basics) 
 
     *4 hours*
 
     In my opinion, this course should be after *Console Foundations*
 
-#### - [x] [GitHub Basics](https://teamtreehouse.com/library/github-basics) 
+- [x] [GitHub Basics](https://teamtreehouse.com/library/github-basics) 
 
     *2 hours*
 
     This course should be brought to the beginning of the Track following *Git Basics* & *Console Foundations*
 
-#### - [ ] [HTML Video and Audio](https://teamtreehouse.com/library/html-video-and-audio) 
+- [ ] [HTML Video and Audio](https://teamtreehouse.com/library/html-video-and-audio) 
 
     *116 minutes*
 
-#### - [ ] [Responsive Layouts](https://teamtreehouse.com/library/responsive-layouts) 
+- [ ] [Responsive Layouts](https://teamtreehouse.com/library/responsive-layouts) 
 
     *47 minutes*
 
-#### - [ ] [AJAX Basics](https://teamtreehouse.com/library/ajax-basics)
+- [ ] [AJAX Basics](https://teamtreehouse.com/library/ajax-basics)
 
     *5 hours*
 
-#### - [ ] [Object-Oriented JavaScript](https://teamtreehouse.com/library/objectoriented-javascript) 
+- [ ] [Object-Oriented JavaScript](https://teamtreehouse.com/library/objectoriented-javascript) 
 
     *2 hours*
 
-#### - [ ] [Accessibility](https://teamtreehouse.com/library/accessibility) 
+- [ ] [Accessibility](https://teamtreehouse.com/library/accessibility) 
 
     *101 minutes*
 
-#### - [ ] [Website Optimization](https://teamtreehouse.com/library/website-optimization) 
+- [ ] [Website Optimization](https://teamtreehouse.com/library/website-optimization) 
 
     *89 minutes*
 
-#### - [ ] [Front End Performance Optimization](https://teamtreehouse.com/library/front-end-performance-optimization) 
+- [ ] [Front End Performance Optimization](https://teamtreehouse.com/library/front-end-performance-optimization) 
 
     *92 minutes*
 
-#### - [ ] [Introduction to Design Patterns](https://teamtreehouse.com/library/introduction-to-design-patterns)  *Workshop*
+- [ ] [Introduction to Design Patterns](https://teamtreehouse.com/library/introduction-to-design-patterns)  *Workshop*
 
     *37 minutes*
 
-#### - [ ] [Framework Basics](https://teamtreehouse.com/library/framework-basics) 
+- [ ] [Framework Basics](https://teamtreehouse.com/library/framework-basics) 
 
     *7 hours*
 
