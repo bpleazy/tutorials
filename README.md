@@ -15,7 +15,7 @@ I quite prefer Windows 10 for a majority of my computing, but I'm learning Linux
     This course is rightly the first course in the track. In the first session (full-stack JavaScript) we were told to use the terminal and git to manage our projects. However, trying to keep up with the front-end dev courses while also being completely lost in terminal and git (as well as losing my the primary Mac OSX machine I was using as my learning environment 1-2 months into the course) sealed my failure. 
     But... having failed out of the first session helped me have a better understanding of *what* I need to be looking at to be prepared to manage my projects before I start making them.
 
-- [ ] [HTML Forms](https://teamtreehouse.com/library/html-forms) 
+- [x] [HTML Forms](https://teamtreehouse.com/library/html-forms) 
     
     *2 hours*
 
